@@ -1,0 +1,12 @@
+---
+title: My first post in my personal blog
+author: Alex Bajaña
+date: '2020-05-09'
+slug: my-first-post-in-my-personal-blog
+categories:
+  - R
+tags:
+  - R Markdown
+---
+
+![This is a Eva seires](/post/2020-05-09-my-first-post-in-my-personal-blog_files/evas_series.jpg)
